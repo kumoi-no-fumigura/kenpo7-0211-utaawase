@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kenpo7-0211-utaawase",
  "yomi": "けんぽうしちねんにがつじゅういちにちうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三十番・春の題）",
+  "era": "建保7年（1219）2月11日",
+  "author": "主催 順徳天皇",
+  "desc": "当座で急に催された三十番の歌合。春風・春雨・春月・春山・春水・春里・春雪・春恋・春野・春祝の題で、院・伊平・為家・光経・康光・範綱らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
